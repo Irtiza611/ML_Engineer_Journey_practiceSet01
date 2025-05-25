@@ -10,5 +10,6 @@ with open("schema.json") as file2:
 try:
     validate(instance=new , schema=schemaNew)
     print("user profle is valid")
+    
 except:
     print("user profile is not valid")
