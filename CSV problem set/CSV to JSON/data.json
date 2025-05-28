@@ -1,0 +1,44 @@
+[
+    {
+        "Date": "2025-01-01",
+        "Product": "Widget A",
+        "Quantity": 10,
+        "Price": 20,
+        "Region": "North"
+    },
+    {
+        "Date": "2025-01-02",
+        "Product": "Widget B",
+        "Quantity": 5,
+        "Price": 50,
+        "Region": "South"
+    },
+    {
+        "Date": "2025-01-03",
+        "Product": "Widget A",
+        "Quantity": 7,
+        "Price": 20,
+        "Region": "East"
+    },
+    {
+        "Date": "2025-01-04",
+        "Product": "Widget C",
+        "Quantity": 3,
+        "Price": 30,
+        "Region": "West"
+    },
+    {
+        "Date": "2025-01-05",
+        "Product": "Widget B",
+        "Quantity": 14,
+        "Price": 50,
+        "Region": "North"
+    },
+    {
+        "Date": "2025-01-06",
+        "Product": "Widget C",
+        "Quantity": 6,
+        "Price": 30,
+        "Region": "South"
+    }
+]
