@@ -1,0 +1,11 @@
+Transaction ID,Product Name,Category,Quantity,Price (Each),Total Amount,Customer Name,Email,Address,Purchase Date,Payment Method
+T00001,Yoga Mat,Fitness,5,25.0,125.0,Allison Hill,donaldgarcia@example.net,"600 Jeffery Parkways, New Jamesside, MT 29394",2025-03-29 05:27:57,Cash on Delivery
+T00002,Bluetooth Headphones,Electronics,3,49.99,149.97,Rhonda Smith,helenpeterson@example.org,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",2025-05-17 19:32:33,Bank Transfer
+T00003,Yoga Mat,Fitness,4,25.0,100.0,Matthew Mejia,wyattmichelle@example.com,"55341 Amanda Gardens Apt. 764, Lake Mark, WI 07832",2025-02-14 11:26:28,Cash on Delivery
+T00004,Backpack,Accessories,1,45.0,45.0,Renee Morales,clarksherri@example.net,"7242 Julie Plain Suite 969, Coxberg, NY 65187",2025-01-18 15:40:06,Bank Transfer
+T00005,Bluetooth Headphones,Electronics,5,49.99,249.95,Shannon Hernandez,laurahenderson@example.org,"480 Erin Plain Suite 514, Mooretown, VA 94830",2025-02-21 03:28:54,PayPal
+T00006,Desk Lamp,Furniture,2,29.99,59.98,Pamela Romero,harrellkenneth@example.net,"52880 Burns Creek, Natashaport, IA 08093",2025-02-16 18:32:34,PayPal
+T00007,Yoga Mat,Fitness,2,25.0,50.0,Theresa Miller,wcabrera@example.net,"782 Rose Rest, Brandtside, WV 96174",2025-05-14 23:00:58,Cash on Delivery
+T00008,Running Shoes,Footwear,5,60.0,300.0,Eric Carney,samuel87@example.org,"0983 Adrian Station, East Carloston, VI 43810",2025-01-14 18:13:09,PayPal
+T00009,Backpack,Accessories,5,45.0,225.0,Diana Washington,jenniferkhan@example.net,"3116 Henderson Mountain Apt. 106, Laurenville, IA 25613",2025-02-06 22:26:15,Bank Transfer
+T00010,Running Shoes,Footwear,4,60.0,240.0,Brenda White,ewright@example.com,"80132 Tucker Forest, Barreraburgh, MS 00783",2025-03-17 19:29:50,Credit Card
